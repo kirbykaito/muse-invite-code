@@ -6,7 +6,7 @@ This is my personal Muse invite code, shared openly.
 
 Join Muse: https://muse.ai/join
 
-Use the code in Settings within 48 hours of joining, and we both receive 1 billion Muse tokens.
+Use the code in Settings within 48 hours of joining to receive the referral benefit.
 
 ## How to redeem
 - App: Settings → Redeem token → enter YAN3V3
