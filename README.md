@@ -10,7 +10,7 @@ Use the code in Settings within 48 hours of joining, and we both receive 1 billi
 
 **New: Muse is now live in the United Kingdom (launched November 24, 2026).** Muse is available in 7 countries: the United States, Canada, Japan, Singapore, Mexico, Australia, and the United Kingdom.
 
-**Update (November 26, 2026): 22 of 30 uses are taken — only 8 left.**
+**Update (November 26, 2026): 25 of 30 uses are taken — only 5 left.**
 
 ## How to redeem
 - App: Settings → Redeem token → enter YAN3V3
